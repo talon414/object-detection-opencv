@@ -11,4 +11,4 @@ Object detection with YOLOv3 pre-trained weights.
 
 # Object detection output 
 
-<img title="City Objects" src="city.jpg">
+<img title="City Objects" src="city.png">
